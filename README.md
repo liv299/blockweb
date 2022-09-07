@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Dunkin
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   home pagina
@@ -56,7 +56,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  - doorzichtige vlakken achter knopen maken het onduidelijk dat het knopen zijn.
+  - lettertype onduidelijk te klein.
+  - lettertype onduidelijk.
+  - witte letters op donkerroze achtergrond onduidelijk.
+  - Slider knoppen onduidelijk.
+  <img src="readme-images/silder.PNG" width="375px" alt="omschrijving van de pagina">
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)

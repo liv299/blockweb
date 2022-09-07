@@ -64,9 +64,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/silder.PNG" width="375px" alt="omschrijving van de pagina">
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  - wanneer je op een tekstvlak staat word er niet gezet waarvoor het voor textvlak is.(bijvoorbeeld je postcode invullen)
+  - bestellen ging wel redelijk
+  - alle klik bare elementen waren toegankelijk met tab. 
+  
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - dit kan met spatie en tab en tab shift bij terug.
 
 
   #### Muis en Toetsenbord 
@@ -74,21 +78,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
-
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  drie elastiekjes:
+  - je kan niet scrollen
+  - type duurt langer
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  - je kan wel met de pijltjes scrollen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  Blurred vision:
+  - de kleine letters zijn niet meer leesbaar.
+  - grote (kop)teksten en afbeeldingen zijn leesbaar en te zien.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - duidelijker contrast kleuren zwart in plaats van zwart. 
+  - grotere teksten.
 
 </details>
-
-
 
 ## Breakdownschets (week 1)
 

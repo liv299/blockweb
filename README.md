@@ -125,8 +125,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Het opzetten van de basis structuur van zowel html en css was goed te doen. 
+  <img src='readme-images/HtmlCode1.jpg'>
+  <img src='readme-images/CssCode1.jpg'>
+  
 
   ### Agenda voor meeting
   samen met je groepje opstellen

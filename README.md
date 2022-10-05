@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Liv Habibuw
 
   #### Je startniveau:
-  Rood
+  Blauw
 
   #### Je focus:
   Responsive design
@@ -236,7 +236,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De website heeft CSS maar is nog niet responsive.
 
 
   ### Agenda voor meeting
@@ -252,10 +252,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ine heeft een code geschreven waarmee de items in de header naast elkaar komen zonder dat de items die uit beeld zijn erbij komen.
+  - Het is me niet gelukt om ines code toe te passen.
+  - Uiteindelij heb ik zelf een code gemaakt maar nu als het scherm groter word kan ik hem niet responsive maken omdat ze niet in de zelfde container zitten.
+  - de order button kan ik niet op het scherm krijgen met fixed position dan gaat er iets stuk.
 
 </details>
 
@@ -269,19 +269,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/eindresultaat.png" width="375px" alt="uitomst opdracht 1">
+  
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+  Ik heb geleerd om met js een hamburger menu te maken.
+  Ik heb geleerd hoe media queries werken.
+  
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/hamburgermenu.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  De website is nog niet helemaal responsive.
+  
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/responsive.png" width="375px" alt="bummer">
 </details>
 
 

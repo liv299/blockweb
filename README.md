@@ -100,6 +100,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 </details>
 
 ## Breakdownschets (week 1)
+<img src='readme-images/breakdownSchets.pdf' alt='breakdown schets pdf'>
 
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
@@ -143,10 +144,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - De basis van de html code is goed.
 
 </details>
 
@@ -160,7 +158,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  - de structuur van de website is goed en ik heb hier en daar al wat css toegepast
+  - ik vind het alleen lastig om elementen de juiste maat te geven 
+  - en op de plek te krijgen die ik wil.
+ 
+  website tot nu:
+  <img scr='readme-images/websitew3.png>
+  
+  css code: 
+  <img scr='readme-images/cssw3.pdf alt='pdf css code week 3'>
 
 
   ### Agenda voor meeting
@@ -176,10 +182,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - De structuur van mijn css is overzichtelijk.
+  - De witruimte om de website moet weg door >> body margin en padding van 0 geven.
+  - De blokke moeten het juiste formaat krijgen door >> grid en min en max width te geven
+  - maak afbeeldingen display: block; zodat ze binnen het scherm blijven.
 
 </details>
 

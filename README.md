@@ -300,9 +300,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>continu bijhouden terwijl je werkt</summary>
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-  1. bron 1
-  2. bron 2
-  3. ...
+Ik heb geen bronnen gebruikt ik heb de kennis van de powerpoints en code pen toegepast. Als ik code heb overgenomen van code pen dan staat het bij de code.
 
 </details>

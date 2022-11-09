@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/homepagina.jpg" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  bestelpagina
-  <img src="readme-images/bestelpagina.jpg" width="375px" alt="bestelpagina">
+  blogpagina
+  <img src="readme-images/blogpagina.jpg" width="375px" alt="blog pagina">
  
 </details>
 
@@ -97,19 +97,16 @@ Je kan de pijlen op het toetsenbord gebruiken om te scrollen.
 </details>
 
 ## Breakdownschets (week 1)
-<img src='readme-images/breakdownSchets.pdf' alt='breakdown schets pdf'>
 
 <details>
-  <summary>uitwerken na afloop 2e werkgroep</summary>
+  <summary>Tijdens de werkgroep heb ik een begin gemaakt aan mijn breakdown schets. Ik heb een breakdown schets gemaakt van mijn homepagina en van het menu.</summary>
 
   ### de hele pagina: 
+  deze breakdown schets is niet goed zichtbaar omdat ik hem heb gexporteerd van pdf naar jpg, omdat de pdf niet lukte om erin te zetten.
   <img src="readme-images/breakdown_schets.jpg" width="375px" alt="afbeelding breakdown schets van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/breakdown_menu.jpg" width="375px" alt="breakdown van het menu">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/breakdown_menu" width="375px" alt="breakdown van menu">
 
 </details>
 
@@ -290,7 +287,7 @@ Je kan de pijlen op het toetsenbord gebruiken om te scrollen.
   
   3. order knop blijft staan ook al is het menu uitgeklapt. 
 een lagere z-index geven werkt niet wat wel? 
-  <img src="readme-images/order.jpg" width="375px" alt="bummer">
+  <img src="readme-images/orderknop.jpg" width="375px" alt="bummer">
   
   4. het is me gelukt een achtegrond img toe te passen, alleen staat hij niet zoals ik hem hebben wil.
   <img src="readme-images/achtergrond.jpg" width="375px" alt="bummer">

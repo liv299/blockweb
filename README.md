@@ -102,7 +102,8 @@ Je kan de pijlen op het toetsenbord gebruiken om te scrollen.
   <summary>Tijdens de werkgroep heb ik een begin gemaakt aan mijn breakdown schets. Ik heb een breakdown schets gemaakt van mijn homepagina en van het menu.</summary>
 
   ### de hele pagina: 
-  deze breakdown schets is niet goed zichtbaar omdat ik hem heb gexporteerd van pdf naar jpg, omdat de pdf niet lukte om erin te zetten.
+  deze breakdown schets is niet goed zichtbaar omdat ik hem heb gexporteerd van pdf naar jpg, omdat de pdf niet lukte om erin te zetten. miro: https://miro.com/app/board/uXjVPYtgdPg=/?share_link_id=436806082130
+  
   <img src="readme-images/breakdown_schets.jpg" width="375px" alt="afbeelding breakdown schets van de hele pagina">
 
   ### dynamisch deel (bijv menu): 

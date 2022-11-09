@@ -254,10 +254,11 @@ Je kan de pijlen op het toetsenbord gebruiken om te scrollen.
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+  <summary>ik ben over het al geheel tevreden met mijn einderesultaat. Een paar dingen zijn niet gelukt, maar ik ben toch tevreden omdat ik hiervoor dit helemaal niet kon maken en dus een nieuwe dingen geleerd heb.</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/eindresultaat.jpg" width="375px" alt="eindresultaat home pagina">
+  <img src="readme-images/eindresultaat1.png" width="375px" alt="eindresultaat home pagina">
+  <img src="readme-images/eindresultaat2.png" width="375px" alt="eindresultaat home pagina">
   
 
 

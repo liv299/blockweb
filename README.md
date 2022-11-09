@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   home pagina
-  <img src="readme-images/homepagina.PNG" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/homepagina.jpg" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   bestelpagina
-  <img src="readme-images/bestelpagina.PNG" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bestelpagina.jpg" width="375px" alt="bestelpagina">
  
 </details>
 
@@ -53,15 +53,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 1e werkgroep</summary>
+  <summary>Tijdens de werkgroep heb ik een toegankelijkheidstest uitgevoerd op de website van dunkin'. Ik ben er onder andere achtergekomen dat de website niet goed leesbaar is.</summary>
 
   ### Bevindingen
-  - doorzichtige vlakken achter knopen maken het onduidelijk dat het knopen zijn.
-  - lettertype onduidelijk te klein.
-  - lettertype onduidelijk.
-  - witte letters op donkerroze achtergrond onduidelijk.
-  - Slider knoppen onduidelijk.
-  <img src="readme-images/silder.PNG" width="375px" alt="omschrijving van de pagina">
+  1. niet alle buttons lijken klikbaar door de kleur (grijs) 
+  2. het lettertype is onduidelij voor paragrafen en kleine knoppen
+  3. de knoppen van de sliders lijken niet klikbaar
+  4. sommige teksten zijn lichtgrijs dit is goed leesbaar
+  5. kleine witte letters op een donkerroze achtergrond is niet goed leesbaar
 
   #### Screenreader
   - wanneer je op een tekstvlak staat word er niet gezet waarvoor het voor textvlak is.(bijvoorbeeld je postcode invullen)
@@ -70,14 +69,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  - dit kan met spatie en tab en tab shift bij terug.
+  Labels toevoegen aan invoer velden zodat de screenreader kan lezen wat voor invoer velt het is.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+ Met het muis en toetsenbord heb ik geen problemen ondervonden omdat alle klikbare elementen klikaar waren met tab.
+  
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
   drie elastiekjes:
@@ -85,7 +82,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - type duurt langer
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  - je kan wel met de pijltjes scrollen.
+Je kan de pijlen op het toetsenbord gebruiken om te scrollen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -106,13 +103,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownSchets.pdf" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown_schets.jpg" width="375px" alt="afbeelding breakdown schets van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown_menu.jpg" width="375px" alt="breakdown van het menu">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/breakdown_menu" width="375px" alt="breakdown van menu">
 
 </details>
 
@@ -123,14 +120,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Voortgang 1 (week 2)
 
 <details>
-  <summary>uitwerken voor 1e voortgang</summary>
+  <summary>Tijdens dit voortganggesprek heb ik de opzet van mijn html en css voor mijn website laten zien.</summary>
 
   ### Stand van zaken
   Het opzetten van de basis structuur van zowel html en css was goed te doen. 
-  <img src='readme-images/HtmlCode1.jpg'>
-  <img src='readme-images/CssCode1.jpg'>
-  
-
+ 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
@@ -155,18 +149,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Voortgang 2 (week 3)
 
 <details>
-  <summary>uitwerken voor 2e voortgang</summary>
+  <summary>Ik heb hier en daar css toegpast</summary>
 
   ### Stand van zaken
-  - de structuur van de website is goed en ik heb hier en daar al wat css toegepast
+  - ik heb css toegepast op mijn website
   - ik vind het alleen lastig om elementen de juiste maat te geven 
-  - en op de plek te krijgen die ik wil.
- 
-  website tot nu:
-  <img scr='readme-images/websitew3.png>
-  
-  css code: 
-  <img scr='readme-images/cssw3.pdf alt='pdf css code week 3'>
+  - ik vind het nog lastig om elementen te positioneren 
 
 
   ### Agenda voor meeting
@@ -185,6 +173,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - De structuur van mijn css is overzichtelijk.
   - De witruimte om de website moet weg door >> body margin en padding van 0 geven.
   - De blokke moeten het juiste formaat krijgen door >> grid en min en max width te geven
+  - je kan de website inspecteren en dan zien wat de afmeting is.
   - maak afbeeldingen display: block; zodat ze binnen het scherm blijven.
 
 </details>
@@ -196,33 +185,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 8e werkgroep</summary>
+  <summary>Tijdens de werkgroep hebben ik wederom een toegankelijksheidtest uitgevoerd. Dit keer heb ik mijn bevindingen uit de eerste test erbij gehouden en en gekeken wat er is verbeterd en waar er nog ruimte is voor verbetering. </summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+ - De tekst is beter te lezen (ik heb de tekst zwart gemaakt in plaats van lichtgrijs)
+ - De tekst is groter 
+ - Knopen zien er klikbaar uit (ik heb de knoppen een andere kleur gegeven in plaats van grijs)
+ - De kleurcontrast is verbeterd (tekstkleur veranderd op achtergrond).
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ De screenreader geeft nog steeds niet aan wat voor tekstvlak het is hier zou ik dus nog labels aan toe kunnen voegen voor de screenreader.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ wederom ook dit keer geen problemen gevonden.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  scrollen is nog steeds lastig maar dat kan alleen verholpen worden door de pijltjes op het toetsen bord te gebruiken. 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Het contrast op de site is beter 
+  - kleuren verandert 
+  - font size groter 
+  - font color verandert 
+  - minder vette font gebruikt
 
 </details>
 
@@ -233,7 +220,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Voortgang 3 (week 4)
 
 <details>
-  <summary>uitwerken voor 3e voortgang</summary>
+  <summary>Tijdens het voortgang gesprek heb ik de laatste puntjes op de i gezet met behulp van de klassenassistent.</summary>
 
   ### Stand van zaken
   De website heeft CSS maar is nog niet responsive.
@@ -255,7 +242,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Ine heeft een code geschreven waarmee de items in de header naast elkaar komen zonder dat de items die uit beeld zijn erbij komen.
   - Het is me niet gelukt om ines code toe te passen.
   - Uiteindelij heb ik zelf een code gemaakt maar nu als het scherm groter word kan ik hem niet responsive maken omdat ze niet in de zelfde container zitten.
-  - de order button kan ik niet op het scherm krijgen met fixed position dan gaat er iets stuk.
+  - de order button blijft nu staan ook als je scrolled.
+  - met z-index kan de header over de afbeeldingen heen scrollen en heb je niet meer dat ze overlappen.
 
 </details>
 
@@ -269,25 +257,42 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/eindresultaat.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/eindresultaat.jpg" width="375px" alt="eindresultaat home pagina">
   
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-  Ik heb geleerd om met js een hamburger menu te maken.
-  Ik heb geleerd hoe media queries werken.
+1. ik heb geleerd dat er drie manieren zijn om te positioneren : flexbox , grid en position
+2. ik heb geleerd hoe je position kunt toepassen
+  <img src="readme-images/position.jpg" width="375px" alt="foto position toegepast">
+3. ik heb geleerd hoe je effecten zoals box shadow en rotate kunt toepassen.
+4. Ik heb geleerd wat media queries zijn en hoe je ze kunt gebruiken.
+5. ik heb geleerd wat z-index is 
+6. ik heb geleerd hoe je een werkend hamburger menu kunt maken met js
+  <img src="readme-images/hamburger.jpg" width="375px" alt="foto hamburgermenu">
   
-
-  <img src="readme-images/hamburgermenu.png" width="375px" alt="top">
-
+  verbeterd herkansing website:
+  1. home opnieuw pagina gemaakt 
+2. z-index toegepast (dus ziet er niet meer raar uit met scrollen)
+3. position verwijderd waar niet nodig 
+4. git hub aangevuld 
+5. order knop fixed position gelukt 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  De website is nog niet helemaal responsive.
+  1. De website is niet helemaal responsive.
+  <img src="readme-images/responsive.jpg" width="375px" alt="bummer">
   
-
-  <img src="readme-images/responsive.png" width="375px" alt="bummer">
+  2. waarom word de vormgeving van de eerste section in de main ook toegepast op de eerste section in de footer terwijl ik dat niet zo heb geschreven in css?
+>> ik heb het nagekeken maar kan niet vinden waar het aan ligt. Ik heb ook geprobeerd de css regels onderaan te schrijven. zodat als het toch zou liggen aan verkeerde selectoren hij het zou overschijven. maar dat werkt alsnog niet. (het principe werkt is op de blog hetzelfde dus ik heb wel zien dat ik snap hoe het werkt.  
+  <img src="readme-images/footer.jpg" width="375px" alt="bummer">
+  
+  3. order knop blijft staan ook al is het menu uitgeklapt. 
+een lagere z-index geven werkt niet wat wel? 
+  <img src="readme-images/order.jpg" width="375px" alt="bummer">
+  
+  4. het is me gelukt een achtegrond img toe te passen, alleen staat hij niet zoals ik hem hebben wil.
+  <img src="readme-images/achtergrond.jpg" width="375px" alt="bummer">
 </details>
 
 
@@ -297,9 +302,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
+carousel:
+tutorial: https://www.youtube.com/watch?v=gor5BvT2z88
+code pen: carousel just buttons 
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-Ik heb geen bronnen gebruikt ik heb de kennis van de powerpoints en code pen toegepast. Als ik code heb overgenomen van code pen dan staat het bij de code.
+box shadow:
+code pen oefening 1 positioneren
+regel 365: box-shadow: .25em .25em .25em var(--blokje-shadow-color);
+   
+hamburger menu:
+code pen: oefening 2: responsive hamburger button
 
 </details>
